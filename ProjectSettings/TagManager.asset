@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Object Pool
+  - Bullet
+  - Environment
+  - Ceilling
+  - LevelBubble
+  - Bubble Position
+  - UsedBullet
+  - DeadLine
+  - Level Generator
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Player
+  - Water
+  - UI
+  - Environment
+  - Bubbles
+  - Dead Line
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 1209894843
+    locked: 0
+  - name: UI
+    uniqueID: 933027681
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
